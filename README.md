@@ -93,18 +93,22 @@ Métodos:
 
 Flujo del Programa
 
-Inicio:
+Inicio
+
  Al ejecutar el programa, se muestra una ventana con un menú desplegable para seleccionar síntomas.
  El usuario puede agregar síntomas a la lista haciendo clic en "Agregar Síntoma".
 
-Diagnóstico:
+Diagnóstico
+
  El usuario selecciona síntomas y hace clic en "Obtener Diagnóstico".
  El sistema experto compara los síntomas seleccionados con las reglas definidas y muestra el diagnóstico más probable.
 
-Nuevo Diagnóstico:
+Nuevo Diagnóstico
+
  El usuario puede hacer clic en "Nuevo Diagnóstico" para reiniciar la aplicación y comenzar un nuevo diagnóstico.
 
-EJECUTAR:
+EJECUTAR
+
   python agente_diagnostico_simple.py
 
 
@@ -114,29 +118,35 @@ EJECUTAR:
   Evita recomendar la misma película más de una vez para un género específico.
 
 Atributos
+
  peliculas: Un diccionario que contiene películas organizadas por género. Se carga desde un archivo JSON (agente_recomendacion_peliculas.txt).
  recomendaciones_previas: Un diccionario que almacena las películas ya recomendadas para cada género.
 
 Métodos
- recomendar(genero): Recibe un género y devuelve una película recomendada.
+
+ Recomendar(genero): Recibe un género y devuelve una película recomendada.
  Filtra las películas disponibles que no han sido recomendadas previamente.
  Si no hay más películas disponibles para ese género, devuelve un mensaje indicando que ya se han recomendado todas.
  Si el género no existe, devuelve un mensaje de error.
 
 Propósito
+
  Es la interfaz gráfica que permite al usuario interactuar con el agente de recomendación de películas.
 
 Flujo del Programa
 
 Inicio
+
 Al ejecutar el programa, se muestra una ventana con un menú desplegable para seleccionar un género de película.
 
 Recomendación
+
 El usuario selecciona un género y hace clic en "Obtener Recomendación".
 El agente de recomendación busca una película del género seleccionado que no haya sido recomendada previamente.
 La recomendación se muestra en la interfaz, incluyendo el nombre, el año y una breve reseña de la película.
 
 Salir
+
 El usuario puede cerrar la aplicación haciendo clic en "Salir".
 
 
