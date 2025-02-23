@@ -5,15 +5,19 @@
 
   Simula un semáforo inteligente que cambia de estado (rojo, amarillo, verde) según la cantidad de vehículos detectados.
 
-Atributos
+
+
+ATRIBUTOS
 
   estado: Almacena el estado actual del semáforo (rojo, amarillo, verde).
   
   ciclo: Lleva un conteo de los ciclos de la simulación.
   
   detener_simulacion: Bandera para controlar cuándo detener la simulación.
+
+
   
-Métodos:
+METODOS:
 
   percibir_trafico(): Simula la detección de tráfico generando un número aleatorio de vehículos (entre 0 y 10).
   
@@ -26,13 +30,14 @@ Métodos:
   Si hay menos de 3 vehículos, el semáforo se pone en rojo por 3 segundos.
   
 
-Flujo del Programa
 
-Inicio:
+FLUJO DEL PROGRAMA
+
+INICIO:
 
   Al ejecutar el programa, se muestra una ventana con el semáforo en estado "rojo", 0 vehículos detectados y el ciclo en 0.
   
-Simulación:
+SIMULACION:
 
   Al hacer clic en "Iniciar Simulación", el semáforo comienza a cambiar de estado según la cantidad de vehículos detectados.
   
@@ -40,11 +45,11 @@ Simulación:
   
   El ciclo aumenta en cada iteración.
   
-Detener Simulación:
+DETENER SIMULACION:
 
   Al hacer clic en "Detener Simulación", la simulación se detiene y el semáforo vuelve al estado "rojo".
 
-  EJECUTAR: 
+EJECUTAR: 
   
   python agente_semaforo.py
 
