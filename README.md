@@ -1,35 +1,4 @@
 # Agentes Inteligentes en Python 
-
-apply apache cordova to a existen angular project 
-
-1023643900
-1023643973
-
-
-1023643681
-
-
-1023381072
-
-
-
-
-citas: [
-    {
-        "condiciones": "ayuno 24h"
-    }
-]
-
-
-
-
-
-
-
-
-# agentes-inteligentes-JorgeUbicoBrooks
-
-INSTRUCCIONES: 
  
 
 1: Agente de Semáforo Inteligente (Reactivo)
