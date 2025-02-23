@@ -8,16 +8,23 @@
 Atributos
 
   estado: Almacena el estado actual del semáforo (rojo, amarillo, verde).
+  
   ciclo: Lleva un conteo de los ciclos de la simulación.
+  
   detener_simulacion: Bandera para controlar cuándo detener la simulación.
   
 Métodos:
 
   percibir_trafico(): Simula la detección de tráfico generando un número aleatorio de vehículos (entre 0 y 10).
+  
   cambiar_estado(vehiculos): Cambia el estado del semáforo y ajusta el tiempo de espera según la cantidad de vehículos detectados:
+  
   Si hay más de 7 vehículos, el semáforo se pone en verde por 5 segundos.
+  
   Si hay entre 3 y 7 vehículos, el semáforo se pone en amarillo por 2 segundos.
+  
   Si hay menos de 3 vehículos, el semáforo se pone en rojo por 3 segundos.
+  
 
 Flujo del Programa
 
