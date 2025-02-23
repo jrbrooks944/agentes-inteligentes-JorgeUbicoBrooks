@@ -35,7 +35,9 @@ Inicio:
 Simulación:
 
   Al hacer clic en "Iniciar Simulación", el semáforo comienza a cambiar de estado según la cantidad de vehículos detectados.
+  
   Los carros se dibujan en el Canvas en posiciones aleatorias.
+  
   El ciclo aumenta en cada iteración.
   
 Detener Simulación:
