@@ -30,7 +30,7 @@ Simulación:
 Detener Simulación:
   Al hacer clic en "Detener Simulación", la simulación se detiene y el semáforo vuelve al estado "rojo".
 
-  EJECUTAR 
+  EJECUTAR: 
   python agente_semaforo.py
 
 
@@ -70,21 +70,74 @@ Reiniciar:
   Al hacer clic en "Reiniciar Búsqueda", el agente y el objetivo se colocan en nuevas posiciones aleatorias, y la búsqueda puede comenzar de nuevo.
 
 
-EJECUTAR 
+EJECUTAR: 
   python agente_buscador_objetos.py
 
 
 3: Sistema Experto para Diagnóstico Simple (Basado en Conocimiento)
 
+  Simula un sistema experto que realiza diagnósticos médicos basados en síntomas ingresados por el usuario.
+
+Atributos:
+ reglas: Un diccionario que mapea combinaciones de síntomas a diagnósticos posibles. Por ejemplo:
+ {
+     ("dolor de garganta", "tos", "congestión nasal"): "Posible resfriado común.",
+     ("diarrea", "sangre en las heces", "dolor abdominal intenso"): "Posible colitis o enfermedad inflamatoria intestinal. Busque atención médica inmediata."
+ }
+
+Métodos:
+ diagnosticar(sintomas): Recibe una lista de síntomas y devuelve el diagnóstico más probable basado en las reglas definidas.
+ Compara los síntomas ingresados con las combinaciones de síntomas en las reglas.
+ Devuelve el diagnóstico de la regla que tenga la mayor coincidencia con los síntomas ingresados.
+ Si no hay coincidencias, devuelve: "No se encontró un diagnóstico claro. Consulte a un médico."
+
+Flujo del Programa
+
+Inicio:
+ Al ejecutar el programa, se muestra una ventana con un menú desplegable para seleccionar síntomas.
+ El usuario puede agregar síntomas a la lista haciendo clic en "Agregar Síntoma".
+
+Diagnóstico:
+ El usuario selecciona síntomas y hace clic en "Obtener Diagnóstico".
+ El sistema experto compara los síntomas seleccionados con las reglas definidas y muestra el diagnóstico más probable.
+
+Nuevo Diagnóstico:
+ El usuario puede hacer clic en "Nuevo Diagnóstico" para reiniciar la aplicación y comenzar un nuevo diagnóstico.
+
+EJECUTAR:
+  python agente_diagnostico_simple.py
 
 
+4: Agente de Recomendación de Películas (Basado en Aprendizaje)
 
+  Recomienda películas basadas en un género seleccionado por el usuario.
+  Evita recomendar la misma película más de una vez para un género específico.
 
+Atributos
+ peliculas: Un diccionario que contiene películas organizadas por género. Se carga desde un archivo JSON (agente_recomendacion_peliculas.txt).
+ recomendaciones_previas: Un diccionario que almacena las películas ya recomendadas para cada género.
 
+Métodos
+ recomendar(genero): Recibe un género y devuelve una película recomendada.
+ Filtra las películas disponibles que no han sido recomendadas previamente.
+ Si no hay más películas disponibles para ese género, devuelve un mensaje indicando que ya se han recomendado todas.
+ Si el género no existe, devuelve un mensaje de error.
 
+Propósito
+ Es la interfaz gráfica que permite al usuario interactuar con el agente de recomendación de películas.
 
+Flujo del Programa
 
+Inicio
+Al ejecutar el programa, se muestra una ventana con un menú desplegable para seleccionar un género de película.
 
+Recomendación
+El usuario selecciona un género y hace clic en "Obtener Recomendación".
+El agente de recomendación busca una película del género seleccionado que no haya sido recomendada previamente.
+La recomendación se muestra en la interfaz, incluyendo el nombre, el año y una breve reseña de la película.
+
+Salir
+El usuario puede cerrar la aplicación haciendo clic en "Salir".
 
 
 
