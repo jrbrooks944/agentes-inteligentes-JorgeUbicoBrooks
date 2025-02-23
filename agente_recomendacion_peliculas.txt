@@ -1,0 +1,777 @@
+{
+    "accion": [
+        {
+            "nombre": "Mad Max: Fury Road",
+            "anio": "2015",
+            "resena": "En un mundo postapocalíptico, Max se une a Furiosa para escapar de un tirano."
+        },
+        {
+            "nombre": "John Wick",
+            "anio": "2014",
+            "resena": "Un exasesino busca venganza tras el robo de su coche y la muerte de su perro."
+        },
+        {
+            "nombre": "Gladiador",
+            "anio": "2000",
+            "resena": "Un general romano traicionado busca venganza contra el emperador que mató a su familia."
+        },
+        {
+            "nombre": "Misión Imposible: Fallout",
+            "anio": "2018",
+            "resena": "Ethan Hunt y su equipo intentan evitar un desastre nuclear global."
+        },
+        {
+            "nombre": "Duro de Matar",
+            "anio": "1988",
+            "resena": "Un policía lucha contra terroristas que han tomado un edificio de oficinas."
+        },
+        {
+            "nombre": "Terminator 2: El Juicio Final",
+            "anio": "1991",
+            "resena": "Un cyborg es enviado al pasado para proteger al joven John Connor."
+        },
+        {
+            "nombre": "Matrix",
+            "anio": "1999",
+            "resena": "Un hacker descubre que la realidad es una simulación creada por máquinas."
+        },
+        {
+            "nombre": "El Caballero Oscuro",
+            "anio": "2008",
+            "resena": "Batman enfrenta al Joker, quien siembra el caos en Gotham City."
+        },
+        {
+            "nombre": "Avengers: Endgame",
+            "anio": "2019",
+            "resena": "Los Vengadores se unen para revertir el chasquido de Thanos."
+        },
+        {
+            "nombre": "Rápidos y Furiosos 7",
+            "anio": "2015",
+            "resena": "Dom y su equipo enfrentan a un asesino mientras buscan venganza."
+        },
+        {
+            "nombre": "Kill Bill: Volumen 1",
+            "anio": "2003",
+            "resena": "Una asesina busca venganza contra su antiguo equipo de élite."
+        },
+        {
+            "nombre": "El Protector",
+            "anio": "2005",
+            "resena": "Un hombre lucha contra una red de tráfico humano para rescatar a una niña."
+        },
+        {
+            "nombre": "300",
+            "anio": "2006",
+            "resena": "El rey Leónidas y sus 300 espartanos luchan contra el ejército persa."
+        },
+        {
+            "nombre": "Misión Imposible",
+            "anio": "1996",
+            "resena": "Un agente es acusado de traición y debe limpiar su nombre."
+        },
+        {
+            "nombre": "El Renacido",
+            "anio": "2015",
+            "resena": "Un hombre busca venganza tras ser dejado por muerto en el desierto."
+        },
+        {
+            "nombre": "Mad Max 2: El Guerrero de la Carretera",
+            "anio": "1981",
+            "resena": "Max ayuda a un grupo de colonos a defender su combustible de una banda de motociclistas."
+        },
+        {
+            "nombre": "El Último Samurái",
+            "anio": "2003",
+            "resena": "Un soldado estadounidense es capturado por samuráis en el Japón del siglo XIX."
+        },
+        {
+            "nombre": "Caza en Octubre Rojo",
+            "anio": "1990",
+            "resena": "Un oficial de la CIA intenta evitar una guerra nuclear durante la Guerra Fría."
+        },
+        {
+            "nombre": "El Gran Truco",
+            "anio": "2006",
+            "resena": "Un grupo de magos realiza robos espectaculares mientras evaden a la ley."
+        },
+        {
+            "nombre": "Los Vengadores",
+            "anio": "2012",
+            "resena": "Un grupo de superhéroes se une para salvar la Tierra de una invasión alienígena."
+        },
+        {
+            "nombre": "El Escuadrón Suicida",
+            "anio": "2021",
+            "resena": "Un grupo de villanos es reclutado para una misión peligrosa a cambio de reducción de condena."
+        },
+        {
+            "nombre": "Black Panther",
+            "anio": "2018",
+            "resena": "El rey de Wakanda defiende su nación de un enemigo que busca su tecnología."
+        },
+        {
+            "nombre": "El Hombre de Acero",
+            "anio": "2013",
+            "resena": "Superman descubre sus orígenes mientras protege la Tierra de una amenaza alienígena."
+        },
+        {
+            "nombre": "Logan",
+            "anio": "2017",
+            "resena": "Un envejecido Wolverine protege a una joven mutante de fuerzas oscuras."
+        },
+        {
+            "nombre": "Guardianes de la Galaxia",
+            "anio": "2014",
+            "resena": "Un grupo de inadaptados se une para salvar la galaxia de un villano."
+        },
+        {
+            "nombre": "El Lobo de Wall Street",
+            "anio": "2013",
+            "resena": "La historia real de Jordan Belfort, un corredor de bolsa corrupto."
+        },
+        {
+            "nombre": "El Joker",
+            "anio": "2019",
+            "resena": "El origen de Arthur Fleck, quien se convierte en el icónico villano Joker."
+        },
+        {
+            "nombre": "El Irlandés",
+            "anio": "2019",
+            "resena": "Un asesino a sueldo recuerda su participación en eventos históricos."
+        },
+        {
+            "nombre": "El Renacido",
+            "anio": "2015",
+            "resena": "Un hombre busca venganza tras ser dejado por muerto en el desierto."
+        }
+    ],
+    "comedia": [
+        {
+            "nombre": "Superbad",
+            "anio": "2007",
+            "resena": "Dos amigos intentan comprar alcohol para una fiesta y viven una noche llena de caos."
+        },
+        {
+            "nombre": "Ted",
+            "anio": "2012",
+            "resena": "Un hombre adulto lidia con su oso de peluche parlante y su relación con su novia."
+        },
+        {
+            "nombre": "The Hangover",
+            "anio": "2009",
+            "resena": "Un grupo de amigos despierta después de una fiesta en Las Vegas sin recordar nada."
+        },
+        {
+            "nombre": "Bridesmaids",
+            "anio": "2011",
+            "resena": "Una dama de honor compite con otra mujer por el afecto de la novia."
+        },
+        {
+            "nombre": "Dumb and Dumber",
+            "anio": "1994",
+            "resena": "Dos amigos ingenuos emprenden un viaje para devolver una maleta perdida."
+        },
+        {
+            "nombre": "Anchorman: The Legend of Ron Burgundy",
+            "anio": "2004",
+            "resena": "Un presentador de noticias de los años 70 lucha por mantener su relevancia."
+        },
+        {
+            "nombre": "Step Brothers",
+            "anio": "2008",
+            "resena": "Dos hombres adultos se convierten en hermanastros y compiten por el afecto de sus padres."
+        },
+        {
+            "nombre": "21 Jump Street",
+            "anio": "2012",
+            "resena": "Dos policías jóvenes se infiltran en una escuela secundaria para detener una red de drogas."
+        },
+        {
+            "nombre": "22 Jump Street",
+            "anio": "2014",
+            "resena": "Los policías regresan, esta vez para infiltrarse en una universidad."
+        },
+        {
+            "nombre": "The Grand Budapest Hotel",
+            "anio": "2014",
+            "resena": "Las aventuras de un conserje y su protegido en un hotel europeo."
+        },
+        {
+            "nombre": "Deadpool",
+            "anio": "2016",
+            "resena": "Un antihéroe con un sentido del humor oscuro busca venganza."
+        },
+        {
+            "nombre": "Deadpool 2",
+            "anio": "2018",
+            "resena": "Deadpool forma un equipo para proteger a un joven mutante."
+        },
+        {
+            "nombre": "The Nice Guys",
+            "anio": "2016",
+            "resena": "Un detective privado y un matón se unen para resolver un caso en los años 70."
+        },
+        {
+            "nombre": "Zoolander",
+            "anio": "2001",
+            "resena": "Un modelo masculino intenta salvar su carrera mientras descubre una conspiración."
+        },
+        {
+            "nombre": "Zoolander 2",
+            "anio": "2016",
+            "resena": "Derek Zoolander regresa para enfrentar una nueva amenaza en el mundo de la moda."
+        },
+        {
+            "nombre": "The Other Guys",
+            "anio": "2010",
+            "resena": "Dos policías de escritorio intentan resolver un caso importante."
+        },
+        {
+            "nombre": "Horrible Bosses",
+            "anio": "2011",
+            "resena": "Tres amigos planean asesinar a sus jefes abusivos."
+        },
+        {
+            "nombre": "Horrible Bosses 2",
+            "anio": "2014",
+            "resena": "Los amigos intentan iniciar un negocio, pero terminan secuestrando a un inversionista."
+        },
+        {
+            "nombre": "The Heat",
+            "anio": "2013",
+            "resena": "Una agente del FBI y una policía local se unen para atrapar a un narcotraficante."
+        },
+        {
+            "nombre": "Pitch Perfect",
+            "anio": "2012",
+            "resena": "Un grupo de chicas universitarias compite en un concurso de canto a capela."
+        },
+        {
+            "nombre": "Pitch Perfect 2",
+            "anio": "2015",
+            "resena": "Las Bellas regresan para competir en un campeonato mundial de canto."
+        },
+        {
+            "nombre": "Pitch Perfect 3",
+            "anio": "2017",
+            "resena": "Las Bellas se embarcan en una gira internacional con las Fuerzas Armadas."
+        },
+        {
+            "nombre": "The Internship",
+            "anio": "2013",
+            "resena": "Dos amigos consiguen prácticas en Google y compiten con jóvenes más preparados."
+        },
+        {
+            "nombre": "Neighbors",
+            "anio": "2014",
+            "resena": "Una pareja joven se enfrenta a una fraternidad ruidosa que se muda al lado."
+        },
+        {
+            "nombre": "Neighbors 2: Sorority Rising",
+            "anio": "2016",
+            "resena": "La pareja ahora se enfrenta a una sororidad que se muda al lado."
+        },
+        {
+            "nombre": "The 40-Year-Old Virgin",
+            "anio": "2005",
+            "resena": "Un hombre de 40 años intenta perder su virginidad con la ayuda de sus amigos."
+        },
+        {
+            "nombre": "Knocked Up",
+            "anio": "2007",
+            "resena": "Un hombre despreocupado y una mujer exitosa lidian con un embarazo inesperado."
+        },
+        {
+            "nombre": "This Is the End",
+            "anio": "2013",
+            "resena": "Un grupo de celebridades se refugia en una casa durante el apocalipsis."
+        },
+        {
+            "nombre": "The Interview",
+            "anio": "2014",
+            "resena": "Dos periodistas son reclutados para asesinar al líder de Corea del Norte."
+        },
+        {
+            "nombre": "Borat",
+            "anio": "2006",
+            "resena": "Un periodista kazajo viaja a Estados Unidos y causa caos con su comportamiento."
+        },
+        {
+            "nombre": "Borat Subsequent Moviefilm",
+            "anio": "2020",
+            "resena": "Borat regresa a Estados Unidos para entregar un regalo a un político."
+        }
+    ],
+    "drama": [
+        {
+            "nombre": "Forrest Gump",
+            "anio": "1994",
+            "resena": "Un hombre con un coeficiente intelectual bajo vive eventos clave de la historia de EE. UU."
+        },
+        {
+            "nombre": "El Padrino",
+            "anio": "1972",
+            "resena": "La historia de la familia Corleone y su ascenso en el mundo del crimen organizado."
+        },
+        {
+            "nombre": "Cadena Perpetua",
+            "anio": "1994",
+            "resena": "Un hombre inocente es enviado a prisión, donde forma una amistad que cambia su vida."
+        },
+        {
+            "nombre": "Titanic",
+            "anio": "1997",
+            "resena": "Una joven de alta sociedad y un artista pobre se enamoran en el viaje inaugural del Titanic."
+        },
+        {
+            "nombre": "El Club de la Pelea",
+            "anio": "1999",
+            "resena": "Un hombre descontento con su vida forma un club clandestino de peleas."
+        },
+        {
+            "nombre": "El Renacido",
+            "anio": "2015",
+            "resena": "Un hombre busca venganza tras ser dejado por muerto en el desierto."
+        },
+        {
+            "nombre": "La La Land",
+            "anio": "2016",
+            "resena": "Un músico y una actriz luchan por alcanzar sus sueños en Los Ángeles."
+        },
+        {
+            "nombre": "El Irlandés",
+            "anio": "2019",
+            "resena": "Un asesino a sueldo recuerda su participación en eventos históricos."
+        },
+        {
+            "nombre": "El Joker",
+            "anio": "2019",
+            "resena": "El origen de Arthur Fleck, quien se convierte en el icónico villano Joker."
+        },
+        {
+            "nombre": "El Lobo de Wall Street",
+            "anio": "2013",
+            "resena": "La historia real de Jordan Belfort, un corredor de bolsa corrupto."
+        },
+        {
+            "nombre": "El Gran Gatsby",
+            "anio": "2013",
+            "resena": "Un millonario misterioso intenta reconquistar a su antiguo amor en los años 20."
+        },
+        {
+            "nombre": "El Pianista",
+            "anio": "2002",
+            "resena": "Un pianista judío sobrevive al Holocausto en Varsovia."
+        },
+        {
+            "nombre": "El Silencio de los Inocentes",
+            "anio": "1991",
+            "resena": "Una joven agente del FBI busca la ayuda de un asesino en serie para atrapar a otro."
+        },
+        {
+            "nombre": "El Show de Truman",
+            "anio": "1998",
+            "resena": "Un hombre descubre que su vida es un reality show televisado."
+        },
+        {
+            "nombre": "El Curioso Caso de Benjamin Button",
+            "anio": "2008",
+            "resena": "Un hombre nace viejo y rejuvenece con el tiempo, viviendo una vida extraordinaria."
+        },
+        {
+            "nombre": "El Último Rey de Escocia",
+            "anio": "2006",
+            "resena": "Un médico escocés se convierte en el médico personal del dictador ugandés Idi Amin."
+        },
+        {
+            "nombre": "El Descanso",
+            "anio": "2000",
+            "resena": "Un grupo de personas se reúne en una casa de campo para superar una tragedia."
+        },
+        {
+            "nombre": "El Hijo de la Novia",
+            "anio": "2001",
+            "resena": "Un hombre enfrenta una crisis existencial mientras cuida de su madre enferma."
+        },
+        {
+            "nombre": "El Laberinto del Fauno",
+            "anio": "2006",
+            "resena": "Una niña descubre un mundo mágico durante la posguerra española."
+        },
+        {
+            "nombre": "El Hombre Elefante",
+            "anio": "1980",
+            "resena": "La historia real de Joseph Merrick, un hombre con severas deformidades físicas."
+        },
+        {
+            "nombre": "El Perfume: Historia de un Asesino",
+            "anio": "2006",
+            "resena": "Un hombre con un sentido del olfato extraordinario busca crear el perfume perfecto."
+        },
+        {
+            "nombre": "El Faro",
+            "anio": "2019",
+            "resena": "Dos fareros descienden a la locura mientras están aislados en una isla remota."
+        },
+        {
+            "nombre": "El Hijo de Saúl",
+            "anio": "2015",
+            "resena": "Un prisionero judío en Auschwitz busca darle un entierro digno a un niño."
+        },
+        {
+            "nombre": "El Viaje de Chihiro",
+            "anio": "2001",
+            "resena": "Una niña se adentra en un mundo mágico para rescatar a sus padres."
+        },
+        {
+            "nombre": "El Secreto de Sus Ojos",
+            "anio": "2009",
+            "resena": "Un agente judicial intenta resolver un caso de asesinato años después."
+        },
+        {
+            "nombre": "El Hombre que Cambió la Historia",
+            "anio": "2011",
+            "resena": "La historia de Billy Beane, quien revolucionó el béisbol con estadísticas."
+        },
+        {
+            "nombre": "El Último Duelo",
+            "anio": "2021",
+            "resena": "Dos caballeros se enfrentan en un duelo por la honor de una mujer en la Francia medieval."
+        },
+        {
+            "nombre": "El Puente de los Espías",
+            "anio": "2015",
+            "resena": "Un abogado negocia el intercambio de espías durante la Guerra Fría."
+        },
+        {
+            "nombre": "El Club de los Poetas Muertos",
+            "anio": "1989",
+            "resena": "Un profesor inspira a sus estudiantes a través de la poesía."
+        },
+        {
+            "nombre": "El Color Púrpura",
+            "anio": "1985",
+            "resena": "Una mujer afroamericana lucha por su independencia en el sur de EE. UU."
+        }
+    ],
+    "series": [
+        {
+            "nombre": "Breaking Bad",
+            "anio": "2008",
+            "resena": "Un profesor de química con cáncer se convierte en fabricante de metanfetamina para asegurar el futuro de su familia."
+        },
+        {
+            "nombre": "Game of Thrones",
+            "anio": "2011",
+            "resena": "Nobles familias luchan por el control del Trono de Hierro en los Siete Reinos de Westeros."
+        },
+        {
+            "nombre": "Stranger Things",
+            "anio": "2016",
+            "resena": "Un grupo de niños descubre un mundo paralelo y aterrador mientras buscan a su amigo desaparecido."
+        },
+        {
+            "nombre": "The Office (US)",
+            "anio": "2005",
+            "resena": "La vida cotidiana de los empleados de una oficina, llena de situaciones cómicas y absurdas."
+        },
+        {
+            "nombre": "Friends",
+            "anio": "1994",
+            "resena": "Un grupo de seis amigos navega por la vida, el amor y el trabajo en la ciudad de Nueva York."
+        },
+        {
+            "nombre": "The Crown",
+            "anio": "2016",
+            "resena": "La vida y el reinado de la reina Isabel II, desde sus inicios hasta la actualidad."
+        },
+        {
+            "nombre": "The Mandalorian",
+            "anio": "2019",
+            "resena": "Un cazarrecompensas solitario protege a un misterioso niño en los confines de la galaxia."
+        },
+        {
+            "nombre": "The Witcher",
+            "anio": "2019",
+            "resena": "Un cazador de monstruos mutante lucha por encontrar su lugar en un mundo lleno de magia y caos."
+        },
+        {
+            "nombre": "Black Mirror",
+            "anio": "2011",
+            "resena": "Una serie de historias independientes que exploran los aspectos oscuros de la tecnología y la sociedad."
+        },
+        {
+            "nombre": "Narcos",
+            "anio": "2015",
+            "resena": "La historia del auge y caída del cartel de Medellín y su líder, Pablo Escobar."
+        },
+        {
+            "nombre": "Narcos: Mexico",
+            "anio": "2018",
+            "resena": "El surgimiento del tráfico de drogas en México y la guerra contra los cárteles."
+        },
+        {
+            "nombre": "The Boys",
+            "anio": "2019",
+            "resena": "Un grupo de vigilantes lucha contra superhéroes corruptos que abusan de sus poderes."
+        },
+        {
+            "nombre": "The Umbrella Academy",
+            "anio": "2019",
+            "resena": "Un grupo disfuncional de hermanos con superpoderes se reúne para resolver el misterio de la muerte de su padre."
+        },
+        {
+            "nombre": "Peaky Blinders",
+            "anio": "2013",
+            "resena": "Una familia gánster en la Inglaterra de los años 20 lucha por el poder y la supervivencia."
+        },
+        {
+            "nombre": "The Walking Dead",
+            "anio": "2010",
+            "resena": "Un grupo de sobrevivientes lucha por mantenerse con vida en un mundo postapocalíptico lleno de zombis."
+        },
+        {
+            "nombre": "Better Call Saul",
+            "anio": "2015",
+            "resena": "La historia de cómo Jimmy McGill se convierte en el abogado corrupto Saul Goodman."
+        },
+        {
+            "nombre": "Fargo",
+            "anio": "2014",
+            "resena": "Una serie de historias criminales inspiradas en la película del mismo nombre, llenas de intriga y violencia."
+        },
+        {
+            "nombre": "Westworld",
+            "anio": "2016",
+            "resena": "En un parque temático futurista, los androides comienzan a cuestionar su realidad."
+        },
+        {
+            "nombre": "The Handmaid's Tale",
+            "anio": "2017",
+            "resena": "En un futuro distópico, una mujer lucha por sobrevivir en una sociedad opresiva."
+        },
+        {
+            "nombre": "Money Heist (La Casa de Papel)",
+            "anio": "2017",
+            "resena": "Un grupo de ladrones planea y ejecuta el mayor atraco de la historia en la Casa de la Moneda de España."
+        },
+        {
+            "nombre": "Dark",
+            "anio": "2017",
+            "resena": "La desaparición de un niño en un pequeño pueblo alemán revela secretos oscuros que abarcan varias generaciones."
+        },
+        {
+            "nombre": "The Big Bang Theory",
+            "anio": "2007",
+            "resena": "Un grupo de científicos socialmente torpes navega por la vida y el amor en Pasadena, California."
+        },
+        {
+            "nombre": "Sherlock",
+            "anio": "2010",
+            "resena": "El famoso detective Sherlock Holmes resuelve crímenes en el Londres moderno."
+        },
+        {
+            "nombre": "Brooklyn Nine-Nine",
+            "anio": "2013",
+            "resena": "Las divertidas aventuras de los detectives de una comisaría en Brooklyn."
+        },
+        {
+            "nombre": "The Sopranos",
+            "anio": "1999",
+            "resena": "Un jefe de la mafia intenta equilibrar su vida familiar con su carrera criminal."
+        },
+        {
+            "nombre": "The Wire",
+            "anio": "2002",
+            "resena": "Una mirada profunda a la vida en Baltimore a través de las historias de policías, narcotraficantes y ciudadanos."
+        },
+        {
+            "nombre": "Chernobyl",
+            "anio": "2019",
+            "resena": "La historia del desastre nuclear de Chernóbil y los esfuerzos para contenerlo."
+        },
+        {
+            "nombre": "The Queen's Gambit",
+            "anio": "2020",
+            "resena": "Una joven prodigio del ajedrez lucha contra sus demonios internos mientras busca la grandeza."
+        },
+        {
+            "nombre": "Ozark",
+            "anio": "2017",
+            "resena": "Una familia se muda a los Ozarks para lavar dinero para un cártel de drogas, pero se enfrenta a peligros inesperados."
+        },
+        {
+            "nombre": "The Haunting of Hill House",
+            "anio": "2018",
+            "resena": "Una familia enfrenta los horrores del pasado mientras regresa a la casa que los atormentó."
+        },
+        {
+            "nombre": "The Haunting of Bly Manor",
+            "anio": "2020",
+            "resena": "Una au pair descubre que la mansión donde trabaja está embrujada por fantasmas del pasado."
+        }
+    ],
+    "terror": [
+        {
+            "nombre": "El Conjuro",
+            "anio": "2013",
+            "resena": "Una familia es aterrorizada por una presencia oscura en su granja."
+        },
+        {
+            "nombre": "El Conjuro 2",
+            "anio": "2016",
+            "resena": "Los Warren investigan un caso de posesión en Inglaterra."
+        },
+        {
+            "nombre": "El Conjuro 3",
+            "anio": "2021",
+            "resena": "Los Warren enfrentan un caso que involucra un asesinato y fuerzas oscuras."
+        },
+        {
+            "nombre": "Hereditary",
+            "anio": "2018",
+            "resena": "Una familia descubre secretos oscuros tras la muerte de su abuela."
+        },
+        {
+            "nombre": "It",
+            "anio": "2017",
+            "resena": "Un grupo de niños enfrenta a un payaso malvado que se alimenta de sus miedos."
+        },
+        {
+            "nombre": "El Exorcista",
+            "anio": "1973",
+            "resena": "Una madre busca ayuda para su hija, quien está poseída por una entidad demoníaca."
+        },
+        {
+            "nombre": "La Noche de los Muertos Vivientes",
+            "anio": "1968",
+            "resena": "Un grupo de personas se refugia en una granja mientras los muertos regresan a la vida."
+        },
+        {
+            "nombre": "El Resplandor",
+            "anio": "1980",
+            "resena": "Un hombre y su familia cuidan un hotel aislado, donde fuerzas sobrenaturales los afectan."
+        },
+        {
+            "nombre": "Psicosis",
+            "anio": "1960",
+            "resena": "Una secretaria se encuentra con un motel regentado por un hombre con problemas mentales."
+        },
+        {
+            "nombre": "Halloween",
+            "anio": "1978",
+            "resena": "Un asesino escapa de un manicomio y regresa a su pueblo para continuar su matanza."
+        },
+        {
+            "nombre": "La Matanza de Texas",
+            "anio": "1974",
+            "resena": "Un grupo de amigos se encuentra con una familia de caníbales en Texas."
+        },
+        {
+            "nombre": "Alien, el octavo pasajero",
+            "anio": "1979",
+            "resena": "La tripulación de una nave espacial es atacada por una criatura alienígena."
+        },
+        {
+            "nombre": "La Cosa",
+            "anio": "1982",
+            "resena": "Un grupo de científicos en la Antártida es aterrorizado por un parásito alienígena."
+        },
+        {
+            "nombre": "Poltergeist",
+            "anio": "1982",
+            "resena": "Una familia es atormentada por espíritus malignos en su nueva casa."
+        },
+        {
+            "nombre": "Carrie",
+            "anio": "1976",
+            "resena": "Una joven con poderes telequinéticos es acosada hasta que decide vengarse."
+        },
+        {
+            "nombre": "The Babadook",
+            "anio": "2014",
+            "resena": "Una madre y su hijo son aterrorizados por una criatura de un libro infantil."
+        },
+        {
+            "nombre": "Get Out",
+            "anio": "2017",
+            "resena": "Un joven afroamericano descubre un siniestro secreto en la familia de su novia."
+        },
+        {
+            "nombre": "Midsommar",
+            "anio": "2019",
+            "resena": "Una pareja viaja a un festival en Suecia, donde ocurren eventos perturbadores."
+        },
+        {
+            "nombre": "El Orfanato",
+            "anio": "2007",
+            "resena": "Una mujer regresa a su antiguo orfanato, donde descubre secretos oscuros."
+        },
+        {
+            "nombre": "Actividad Paranormal",
+            "anio": "2007",
+            "resena": "Una pareja documenta fenómenos paranormales en su casa."
+        },
+        {
+            "nombre": "Sinister",
+            "anio": "2012",
+            "resena": "Un escritor descubre cintas que revelan asesinatos brutales en su nueva casa."
+        },
+        {
+            "nombre": "La Bruja",
+            "anio": "2015",
+            "resena": "Una familia puritana del siglo XVII es aterrorizada por una bruja en el bosque."
+        },
+        {
+            "nombre": "REC",
+            "anio": "2007",
+            "resena": "Un equipo de televisión graba un edificio infestado de una infección zombi."
+        },
+        {
+            "nombre": "El Aro",
+            "anio": "2002",
+            "resena": "Quien ve una cinta maldita muere siete días después."
+        },
+        {
+            "nombre": "Ju-On: La Maldición",
+            "anio": "2002",
+            "resena": "Una casa maldita propaga una maldición que afecta a todos los que entran."
+        },
+        {
+            "nombre": "Train to Busan",
+            "anio": "2016",
+            "resena": "Un tren es infestado por zombis mientras los pasajeros luchan por sobrevivir."
+        },
+        {
+            "nombre": "El Hoyo",
+            "anio": "2019",
+            "resena": "En una prisión vertical, los reclusos luchan por comida mientras descienden niveles."
+        },
+        {
+            "nombre": "Aterrados",
+            "anio": "2017",
+            "resena": "Un barrio es aterrorizado por fenómenos paranormales inexplicables."
+        },
+        {
+            "nombre": "Audition",
+            "anio": "1999",
+            "resena": "Un viudo organiza un casting falso para encontrar pareja, con resultados aterradores."
+        },
+        {
+            "nombre": "Let the Right One In",
+            "anio": "2008",
+            "resena": "Un niño solitario hace amistad con una niña vampiro en Suecia."
+        },
+        {
+            "nombre": "The Wailing",
+            "anio": "2016",
+            "resena": "Un policía investiga una serie de asesinatos relacionados con un espíritu maligno."
+        },
+        {
+            "nombre": "Goodnight Mommy",
+            "anio": "2014",
+            "resena": "Dos gemelos sospechan que su madre, tras una cirugía, no es quien dice ser."
+        }
+    ]
+}
